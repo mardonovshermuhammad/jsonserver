@@ -1,19 +1,117 @@
 {
-  "posts": [
+  "kurs1": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "fullName": "aaaaaaaaaaaaaaaaaa",
+      "phone": "998971060802",
+      "pasportNUmber": "AA1234562",
+      "Pinfl": "12345678987652",
+      "birthday": "2022-11-25",
+      "id": 1
+    },
+    {
+      "fullName": "shermuhammad",
+      "phone": "998971060804",
+      "pasportNUmber": "AA1234567",
+      "Pinfl": "12121212121211",
+      "birthday": "2022-11-18",
+      "id": 2
+    },
+    {
+      "fullName": "shermuhammad",
+      "phone": "998132323232",
+      "pasportNUmber": "AA3434343",
+      "Pinfl": "24343343443434",
+      "birthday": "2022-11-25",
+      "id": 3
+    },
+    {
+      "fullName": "shermuhammas",
+      "phone": "998121212121",
+      "pasportNUmber": "AA2132322",
+      "Pinfl": "12121212122121",
+      "birthday": "2022-11-11",
+      "id": 4
+    },
+    {
+      "fullName": "sdsdsdsdsd",
+      "phone": "+998232332323",
+      "pasportNUmber": "AA2323233",
+      "Pinfl": "13232323232323",
+      "birthday": "2022-11-23",
+      "id": 5
+    },
+    {
+      "fullName": "ssdsdssd",
+      "phone": "+998232322323",
+      "pasportNUmber": "AA2323232",
+      "Pinfl": "13232424223323",
+      "birthday": "2022-11-17",
+      "id": 6
+    },
+    {
+      "fullName": "adminsdsdsdsdsdsdsdsdsdsdsd",
+      "phone": "+998243434343",
+      "pasportNUmber": "AA2323232",
+      "Pinfl": "22533442242323",
+      "birthday": "2022-11-17",
+      "id": 7
     }
   ],
-  "comments": [
+  "kurs2": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "fullName": "ssssssssssssssssssssssss",
+      "phone": "998232323323",
+      "pasportNUmber": "AA4545453",
+      "Pinfl": "13434433433433",
+      "birthday": "2022-11-25",
+      "id": 1
+    },
+    {
+      "fullName": "muxwwwwwwwwww",
+      "phone": "998343434343",
+      "pasportNUmber": "AA4545453",
+      "Pinfl": "13434433433433",
+      "birthday": "2022-11-16",
+      "id": 2
+    },
+    {
+      "fullName": "shermuhammad",
+      "phone": "998354454545",
+      "pasportNUmber": "AA2323232",
+      "Pinfl": "23423424242443",
+      "birthday": "2022-11-24",
+      "id": 3
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "kurs3": [
+    {
+      "fullName": "admin",
+      "phone": "+998343434343",
+      "pasportNUmber": "AA2323232",
+      "Pinfl": "23424242332332",
+      "birthday": "2022-11-11",
+      "id": 1
+    }
+  ],
+  "kurs4": [
+    {
+      "fullName": "shermuhammadwqwew",
+      "phone": "998121212212",
+      "pasportNUmber": "AA2322322",
+      "Pinfl": "23434343223232",
+      "birthday": "2022-11-18",
+      "id": 1
+    },
+    {
+      "fullName": "shermuhammad1111",
+      "phone": "998121212122",
+      "pasportNUmber": "AA1234567",
+      "Pinfl": "12345678554545",
+      "birthday": "2022-11-17",
+      "id": 3
+    }
+  ],
+  "autifikatsiya": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
   }
 }
