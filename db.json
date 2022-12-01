@@ -113,5 +113,97 @@
   ],
   "autifikatsiya": {
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  },
+  "test":[
+    {
+      "question": "1 chi savol",
+      "answer": "1 javob",
+       "type":"test",
+       "options":[
+          "1 javob","2 javob","3 javob"
+      ]
+  },
+  {
+      "question": " 2 chi savol 16x16 ?",
+      "answer": "256",
+      "type":"yozma",
+      "value": ""
+
+  },
+  {
+      "question": "3 chi savol",
+      "answer": "3 javob",
+      "answer2": "1 javob",
+      "type":"checkbox",
+      "options":[
+          { "text": "1 javob", "check": false},
+          { "text": "2 javob", "check": false},
+          { "text": "3 javob", "check": false},
+          { "text": "4 javob", "check": false}
+      ]
+  },
+  {
+      "question": "4 chi savol",
+      "answer": "1 javob",
+      "type":"test",
+      "options":[
+          "1 javob","2 javob","3 javob","4 javob"
+      ]
+  },
+  {
+      "question": " 5 chi savol 15x15 ?",
+      "answer": "225",
+      "type":"yozma",
+      "value": ""
+
+  },
+  {
+      "question": "6 chi savol",
+      "answer": "3 javob",
+      "answer2": "1 javob",
+      "type":"checkbox",
+      "options":[
+          { "text": "1 javob", "check": false},
+          { "text": "2 javob", "check": false},
+          { "text": "3 javob", "check": false},
+          { "text": "4 javob", "check": false}
+      ]
+  },
+  {
+      "question": "7 chi savol",
+      "answer": "1 javob",
+      "type":"test",
+      "options":[
+          "1 javob","2 javob","3 javob"
+      ]
+  },
+  {
+      "question": " 8 chi savol 20x20 ?",
+      "answer": "400",
+      "type":"yozma",
+      "value": ""
+
+  },
+  {
+      "question": "9 chi savol",
+      "answer": "3 javob",
+      "answer2": "1 javob",
+      "type":"checkbox",
+      "options":[
+          { "text": "1 javob", "check": false},
+          { "text": "2 javob", "check": false},
+          { "text": "3 javob", "check": false},
+          { "text": "4 javob", "check": false}
+      ]
+  },
+  {
+      "question": "10 chi savol",
+      "answer": "1 javob",
+      "type":"test",
+      "options":[
+          "1 javob","2 javob","3 javob"
+      ]
   }
+
+  ]
 }
