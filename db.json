@@ -116,6 +116,7 @@
   },
   "test":[
     {
+      "id":1,
       "question": "1 chi savol",
       "answer": "1 javob",
        "type":"test",
@@ -124,6 +125,7 @@
       ]
   },
   {
+    "id":2,
       "question": " 2 chi savol 16x16 ?",
       "answer": "256",
       "type":"yozma",
@@ -131,6 +133,7 @@
 
   },
   {
+    "id":3,
       "question": "3 chi savol",
       "answer": "3 javob",
       "answer2": "1 javob",
@@ -143,6 +146,7 @@
       ]
   },
   {
+    "id":4,
       "question": "4 chi savol",
       "answer": "1 javob",
       "type":"test",
@@ -151,6 +155,7 @@
       ]
   },
   {
+    "id":5,
       "question": " 5 chi savol 15x15 ?",
       "answer": "225",
       "type":"yozma",
@@ -158,6 +163,7 @@
 
   },
   {
+    "id":6,
       "question": "6 chi savol",
       "answer": "3 javob",
       "answer2": "1 javob",
@@ -170,6 +176,7 @@
       ]
   },
   {
+      "id":7,
       "question": "7 chi savol",
       "answer": "1 javob",
       "type":"test",
@@ -178,6 +185,7 @@
       ]
   },
   {
+    "id":8,
       "question": " 8 chi savol 20x20 ?",
       "answer": "400",
       "type":"yozma",
@@ -185,6 +193,7 @@
 
   },
   {
+    "id":9,
       "question": "9 chi savol",
       "answer": "3 javob",
       "answer2": "1 javob",
@@ -197,6 +206,7 @@
       ]
   },
   {
+      "id":10,
       "question": "10 chi savol",
       "answer": "1 javob",
       "type":"test",
